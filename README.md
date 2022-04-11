@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **.Net core and C#**
 
-- 👯 I’m looking to collaborate on **backend side of projects , especiallyfintech!**
+- 👯 I’m looking to collaborate on **backend side of projects , especially fintech!**
 
 - 📫 How to reach me **salmakh200070@gmail.com | salma_shreef@outlook.com | https://www.linkedin.com/in/salmakhalidshreef582000/**
 
