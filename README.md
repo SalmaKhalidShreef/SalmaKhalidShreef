@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Salma Khalid Shreef</h1>
-<h3 align="center">Computer science student at the German university in Cairo | Incoming SWE intern at Google</h3>
+<h3 align="center">Senior computer science student at the German university in Cairo | Ex-SWE intern at Google</h3>
 
 - 🔭 I am currently working on **an emotional agent as a desktop replacment**
 
