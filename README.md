@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Salma Khalid Shreef</h1>
 <h3 align="center">Senior computer science student at the German university in Cairo | Ex-SWE intern at Google</h3>
 
-- 🔭 I am currently working on **an emotional agent as a desktop replacment**
-
-- 🌱 I’m currently learning **.Net core and C#**
-
 - 👯 I’m looking to collaborate on **backend side of projects , especiallyfintech!**
 
 - 📫 How to reach me **salmakh200070@gmail.com | salma_shreef@outlook.com | https://www.linkedin.com/in/salmakhalidshreef582000/**
