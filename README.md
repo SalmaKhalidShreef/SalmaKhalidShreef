@@ -5,12 +5,9 @@
 
 - 📫 How to reach me **salmakh200070@gmail.com | salma_shreef@outlook.com | https://www.linkedin.com/in/salmakhalidshreef582000/**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1PHfL786anEMgnaxiCdmGPO57e3kRhcl2/view?usp=sharing](https://drive.google.com/file/d/1PHfL786anEMgnaxiCdmGPO57e3kRhcl2/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/salmakhalidshreef582000/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/salmakhalidshreef582000/" height="30" width="40" /></a>
-<a href="https://leetcode.com/SalmaKhalidShreef/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/salmakhalidshreef/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
